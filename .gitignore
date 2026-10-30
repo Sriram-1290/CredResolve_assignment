@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.db
+*.db-wal
+*.db-shm
+results/
+
+# Not part of the submission
+Tech Assignment - Hiring 2026.pdf
+collections_30k_dataset*.zip
